@@ -1,0 +1,109 @@
+{
+  "subject": "Quick question for {{firstName}}",
+  "score": 10,
+  "rating": "Excellent",
+  "scoreBreakdown": [
+    {
+      "label": "Spam-trigger words",
+      "points": 10
+    }
+  ],
+  "categoryHits": [
+    {
+      "id": "overpromise",
+      "label": "Overpromise / hype",
+      "emoji": "🤩",
+      "count": 2,
+      "points": 8,
+      "words": [
+        {
+          "word": "amazing",
+          "count": 1
+        },
+        {
+          "word": "incredible",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "salesy",
+      "label": "Salesy / promotional",
+      "emoji": "🏷️",
+      "count": 2,
+      "points": 2,
+      "words": [
+        {
+          "word": "increase sales",
+          "count": 1
+        },
+        {
+          "word": "call",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "totalTriggerHits": 4,
+  "findings": [
+    {
+      "severity": "warn",
+      "message": "4 spam-trigger words across 2 categories (most in \"Overpromise / hype\"). They aren't automatically bad, but this density reads promotional. Rewrite the flagged terms in plain, specific language."
+    },
+    {
+      "severity": "pass",
+      "message": "0 links, within a safe range for cold outreach."
+    },
+    {
+      "severity": "pass",
+      "message": "76 words, a good length for a cold email."
+    }
+  ],
+  "stats": {
+    "words": 76,
+    "characters": 397,
+    "readingSeconds": 23,
+    "links": 0,
+    "capsWords": 0,
+    "exclamations": 1,
+    "emojis": 0
+  },
+  "flags": [
+    {
+      "term": "amazing",
+      "matched": "amazing",
+      "category": "overpromise",
+      "categoryLabel": "Overpromise / hype",
+      "weight": 4,
+      "index": 167,
+      "suggestedRewrite": "Name the specific benefit (e.g. 'cut onboarding from 5 days to 2')."
+    },
+    {
+      "term": "increase sales",
+      "matched": "increase sales",
+      "category": "salesy",
+      "categoryLabel": "Salesy / promotional",
+      "weight": 1,
+      "index": 197,
+      "suggestedRewrite": "Say how much, for whom, and over what time."
+    },
+    {
+      "term": "incredible",
+      "matched": "incredible",
+      "category": "overpromise",
+      "categoryLabel": "Overpromise / hype",
+      "weight": 4,
+      "index": 294,
+      "suggestedRewrite": "Name the specific benefit with a number or example."
+    },
+    {
+      "term": "call",
+      "matched": "call",
+      "category": "salesy",
+      "categoryLabel": "Salesy / promotional",
+      "weight": 1,
+      "index": 425,
+      "suggestedRewrite": "Ask a direct question, e.g. 'Worth 15 minutes next week?'"
+    }
+  ]
+}

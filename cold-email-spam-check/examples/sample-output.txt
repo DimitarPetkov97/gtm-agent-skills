@@ -1,0 +1,27 @@
+Spam score: 10/100 (lower is better)
+Rating: Excellent
+Subject: Quick question for {{firstName}}
+
+Why this score:
+  +10  Spam-trigger words
+
+Flagged terms: 4
+  🤩 Overpromise / hype: 2 hits, 8 pts
+    - "amazing" at position 167
+    - "incredible" at position 294
+  🏷️ Salesy / promotional: 2 hits, 2 pts
+    - "increase sales" at position 197
+    - "call" at position 425
+
+Suggested rewrites:
+  "amazing" -> Name the specific benefit (e.g. 'cut onboarding from 5 days to 2').
+  "increase sales" -> Say how much, for whom, and over what time.
+  "incredible" -> Name the specific benefit with a number or example.
+  "call" -> Ask a direct question, e.g. 'Worth 15 minutes next week?'
+
+Findings:
+  [warn] 4 spam-trigger words across 2 categories (most in "Overpromise / hype"). They aren't automatically bad, but this density reads promotional. Rewrite the flagged terms in plain, specific language.
+  [pass] 0 links, within a safe range for cold outreach.
+  [pass] 76 words, a good length for a cold email.
+
+Stats: 76 words, 397 characters, ~23s read, 0 links, 0 ALL-CAPS words, 1 exclamation marks, 0 emojis

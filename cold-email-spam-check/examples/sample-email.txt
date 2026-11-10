@@ -1,0 +1,3 @@
+Subject: Quick question for {{firstName}}
+
+Hi {{firstName}}, I hope this email finds you well. I just wanted to reach out because I was hoping we could touch base about how our amazing platform can help you increase sales. Our solution is used by thousands of companies and it has been proven to deliver incredible results, so I really think it would be a great fit for your team going forward. Let me know if you'd be open to a quick call!

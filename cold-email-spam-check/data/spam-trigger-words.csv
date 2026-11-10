@@ -1,0 +1,356 @@
+term,category_id,category_label,weight
+risk free,shady,Shady / scammy,6
+risk-free,shady,Shady / scammy,6
+no catch,shady,Shady / scammy,6
+no obligation,shady,Shady / scammy,6
+no strings attached,shady,Shady / scammy,6
+no credit check,shady,Shady / scammy,6
+no questions asked,shady,Shady / scammy,6
+no hidden charges,shady,Shady / scammy,6
+no hidden costs,shady,Shady / scammy,6
+no hidden fees,shady,Shady / scammy,6
+this is not spam,shady,Shady / scammy,6
+this isn't spam,shady,Shady / scammy,6
+not spam,shady,Shady / scammy,6
+not junk,shady,Shady / scammy,6
+100% guaranteed,shady,Shady / scammy,6
+guaranteed winner,shady,Shady / scammy,6
+you are a winner,shady,Shady / scammy,6
+you're a winner,shady,Shady / scammy,6
+you have been selected,shady,Shady / scammy,6
+you've been selected,shady,Shady / scammy,6
+you have been chosen,shady,Shady / scammy,6
+you've been chosen,shady,Shady / scammy,6
+claim your prize,shady,Shady / scammy,6
+claim your reward,shady,Shady / scammy,6
+you won,shady,Shady / scammy,6
+you've won,shady,Shady / scammy,6
+congratulations you won,shady,Shady / scammy,6
+lottery winner,shady,Shady / scammy,6
+lottery,shady,Shady / scammy,6
+beneficiary,shady,Shady / scammy,6
+wire transfer,shady,Shady / scammy,6
+western union,shady,Shady / scammy,6
+bank account details,shady,Shady / scammy,6
+social security number,shady,Shady / scammy,6
+pre-approved,shady,Shady / scammy,6
+preapproved,shady,Shady / scammy,6
+as seen on,shady,Shady / scammy,6
+multi level marketing,shady,Shady / scammy,6
+multi-level marketing,shady,Shady / scammy,6
+mlm,shady,Shady / scammy,6
+be your own boss,shady,Shady / scammy,6
+make money fast,shady,Shady / scammy,6
+get rich,shady,Shady / scammy,6
+get rich quick,shady,Shady / scammy,6
+free money,shady,Shady / scammy,6
+double your money,shady,Shady / scammy,6
+nigerian prince,shady,Shady / scammy,6
+inheritance,shady,Shady / scammy,6
+unclaimed funds,shady,Shady / scammy,6
+confidential proposal,shady,Shady / scammy,6
+strictly confidential,shady,Shady / scammy,6
+verify your account,shady,Shady / scammy,6
+confirm your identity,shady,Shady / scammy,6
+account suspended,shady,Shady / scammy,6
+suspended account,shady,Shady / scammy,6
+update your payment,shady,Shady / scammy,6
+billing problem,shady,Shady / scammy,6
+you are pre-selected,shady,Shady / scammy,6
+act now to claim,shady,Shady / scammy,6
+no purchase necessary,shady,Shady / scammy,6
+winner,shady,Shady / scammy,6
+viagra,pharma,Health / pharma,5
+cialis,pharma,Health / pharma,5
+weight loss,pharma,Health / pharma,5
+lose weight,pharma,Health / pharma,5
+lose weight fast,pharma,Health / pharma,5
+diet pill,pharma,Health / pharma,5
+diet pills,pharma,Health / pharma,5
+fat burner,pharma,Health / pharma,5
+burn fat,pharma,Health / pharma,5
+miracle cure,pharma,Health / pharma,5
+miracle,pharma,Health / pharma,5
+anti-aging,pharma,Health / pharma,5
+anti aging,pharma,Health / pharma,5
+reverse aging,pharma,Health / pharma,5
+online pharmacy,pharma,Health / pharma,5
+pharmacy,pharma,Health / pharma,5
+no prescription,pharma,Health / pharma,5
+no prescription needed,pharma,Health / pharma,5
+prescription drugs,pharma,Health / pharma,5
+supplement,pharma,Health / pharma,5
+supplements,pharma,Health / pharma,5
+pills,pharma,Health / pharma,5
+herbal remedy,pharma,Health / pharma,5
+natural remedy,pharma,Health / pharma,5
+detox,pharma,Health / pharma,5
+clinically proven,pharma,Health / pharma,5
+doctor recommended,pharma,Health / pharma,5
+fda approved,pharma,Health / pharma,5
+medical breakthrough,pharma,Health / pharma,5
+secret formula,pharma,Health / pharma,5
+hair growth,pharma,Health / pharma,5
+erectile,pharma,Health / pharma,5
+testosterone,pharma,Health / pharma,5
+human growth hormone,pharma,Health / pharma,5
+stop snoring,pharma,Health / pharma,5
+remove wrinkles,pharma,Health / pharma,5
+casino,gambling,Gambling / adult,5
+online casino,gambling,Gambling / adult,5
+casino bonus,gambling,Gambling / adult,5
+jackpot,gambling,Gambling / adult,5
+online betting,gambling,Gambling / adult,5
+bet now,gambling,Gambling / adult,5
+poker,gambling,Gambling / adult,5
+free spins,gambling,Gambling / adult,5
+spin to win,gambling,Gambling / adult,5
+gamble,gambling,Gambling / adult,5
+gambling,gambling,Gambling / adult,5
+xxx,gambling,Gambling / adult,5
+adult content,gambling,Gambling / adult,5
+hot singles,gambling,Gambling / adult,5
+meet singles,gambling,Gambling / adult,5
+live dealer,gambling,Gambling / adult,5
+blackjack,gambling,Gambling / adult,5
+win big,gambling,Gambling / adult,5
+instant winnings,gambling,Gambling / adult,5
+online gaming,gambling,Gambling / adult,5
+slots,gambling,Gambling / adult,5
+lucky winner,gambling,Gambling / adult,5
+amazing,overpromise,Overpromise / hype,4
+amazing deal,overpromise,Overpromise / hype,4
+amazing offer,overpromise,Overpromise / hype,4
+incredible,overpromise,Overpromise / hype,4
+incredible deal,overpromise,Overpromise / hype,4
+unbelievable,overpromise,Overpromise / hype,4
+revolutionary,overpromise,Overpromise / hype,4
+sensational,overpromise,Overpromise / hype,4
+phenomenal,overpromise,Overpromise / hype,4
+life changing,overpromise,Overpromise / hype,4
+life-changing,overpromise,Overpromise / hype,4
+breakthrough,overpromise,Overpromise / hype,4
+game changer,overpromise,Overpromise / hype,4
+game-changer,overpromise,Overpromise / hype,4
+cutting edge,overpromise,Overpromise / hype,4
+cutting-edge,overpromise,Overpromise / hype,4
+world class,overpromise,Overpromise / hype,4
+world-class,overpromise,Overpromise / hype,4
+best in class,overpromise,Overpromise / hype,4
+guaranteed,overpromise,Overpromise / hype,4
+guaranteed results,overpromise,Overpromise / hype,4
+guaranteed success,overpromise,Overpromise / hype,4
+100% satisfied,overpromise,Overpromise / hype,4
+satisfaction guaranteed,overpromise,Overpromise / hype,4
+100% satisfaction,overpromise,Overpromise / hype,4
+once in a lifetime,overpromise,Overpromise / hype,4
+once-in-a-lifetime,overpromise,Overpromise / hype,4
+the best,overpromise,Overpromise / hype,4
+number one,overpromise,Overpromise / hype,4
+skyrocket,overpromise,Overpromise / hype,4
+explode your,overpromise,Overpromise / hype,4
+10x your,overpromise,Overpromise / hype,4
+double your,overpromise,Overpromise / hype,4
+triple your,overpromise,Overpromise / hype,4
+instant results,overpromise,Overpromise / hype,4
+you will not believe,overpromise,Overpromise / hype,4
+you won't believe,overpromise,Overpromise / hype,4
+jaw-dropping,overpromise,Overpromise / hype,4
+mind-blowing,overpromise,Overpromise / hype,4
+mind blowing,overpromise,Overpromise / hype,4
+stunning,overpromise,Overpromise / hype,4
+spectacular,overpromise,Overpromise / hype,4
+extraordinary,overpromise,Overpromise / hype,4
+ultimate,overpromise,Overpromise / hype,4
+unmatched,overpromise,Overpromise / hype,4
+unparalleled,overpromise,Overpromise / hype,4
+unrivaled,overpromise,Overpromise / hype,4
+what you've been waiting for,overpromise,Overpromise / hype,4
+transform your,overpromise,Overpromise / hype,4
+change your life,overpromise,Overpromise / hype,4
+cash,money,Money / financial,3
+earn money,money,Money / financial,3
+earn cash,money,Money / financial,3
+earn extra,money,Money / financial,3
+make money,money,Money / financial,3
+make cash,money,Money / financial,3
+extra income,money,Money / financial,3
+extra cash,money,Money / financial,3
+easy money,money,Money / financial,3
+fast cash,money,Money / financial,3
+double your income,money,Money / financial,3
+financial freedom,money,Money / financial,3
+get paid,money,Money / financial,3
+pure profit,money,Money / financial,3
+big bucks,money,Money / financial,3
+big money,money,Money / financial,3
+investment advice,money,Money / financial,3
+loan,money,Money / financial,3
+loans,money,Money / financial,3
+mortgage,money,Money / financial,3
+mortgage rates,money,Money / financial,3
+refinance,money,Money / financial,3
+debt free,money,Money / financial,3
+get out of debt,money,Money / financial,3
+bankruptcy,money,Money / financial,3
+avoid bankruptcy,money,Money / financial,3
+bad credit,money,Money / financial,3
+credit repair,money,Money / financial,3
+save big money,money,Money / financial,3
+billionaire,money,Money / financial,3
+cents on the dollar,money,Money / financial,3
+why pay more,money,Money / financial,3
+lowest interest,money,Money / financial,3
+lower your interest,money,Money / financial,3
+cashback,money,Money / financial,3
+cash back,money,Money / financial,3
+money making,money,Money / financial,3
+money-making,money,Money / financial,3
+earn from home,money,Money / financial,3
+passive income,money,Money / financial,3
+instant income,money,Money / financial,3
+instant earnings,money,Money / financial,3
+act now,urgency,Urgency / pressure,3
+act fast,urgency,Urgency / pressure,3
+act immediately,urgency,Urgency / pressure,3
+urgent,urgency,Urgency / pressure,3
+urgent response,urgency,Urgency / pressure,3
+hurry,urgency,Urgency / pressure,3
+hurry up,urgency,Urgency / pressure,3
+limited time,urgency,Urgency / pressure,3
+limited time offer,urgency,Urgency / pressure,3
+limited offer,urgency,Urgency / pressure,3
+expires today,urgency,Urgency / pressure,3
+expires soon,urgency,Urgency / pressure,3
+offer expires,urgency,Urgency / pressure,3
+deadline,urgency,Urgency / pressure,3
+last chance,urgency,Urgency / pressure,3
+final call,urgency,Urgency / pressure,3
+final hours,urgency,Urgency / pressure,3
+final notice,urgency,Urgency / pressure,3
+while supplies last,urgency,Urgency / pressure,3
+supplies are limited,urgency,Urgency / pressure,3
+supplies running out,urgency,Urgency / pressure,3
+don't miss,urgency,Urgency / pressure,3
+don't miss out,urgency,Urgency / pressure,3
+now or never,urgency,Urgency / pressure,3
+today only,urgency,Urgency / pressure,3
+before it's too late,urgency,Urgency / pressure,3
+time sensitive,urgency,Urgency / pressure,3
+time-sensitive,urgency,Urgency / pressure,3
+ends tonight,urgency,Urgency / pressure,3
+ends today,urgency,Urgency / pressure,3
+don't wait,urgency,Urgency / pressure,3
+don't delete,urgency,Urgency / pressure,3
+do it now,urgency,Urgency / pressure,3
+what are you waiting for,urgency,Urgency / pressure,3
+this won't last,urgency,Urgency / pressure,3
+instant access,urgency,Urgency / pressure,3
+act before,urgency,Urgency / pressure,3
+closing soon,urgency,Urgency / pressure,3
+running out of time,urgency,Urgency / pressure,3
+last minute,urgency,Urgency / pressure,3
+apply now,urgency,Urgency / pressure,3
+order now,urgency,Urgency / pressure,3
+expires,urgency,Urgency / pressure,3
+dear friend,greetings,Spammy greeting,3
+dear sir,greetings,Spammy greeting,3
+dear madam,greetings,Spammy greeting,3
+dear sir or madam,greetings,Spammy greeting,3
+dear sir/madam,greetings,Spammy greeting,3
+dear beneficiary,greetings,Spammy greeting,3
+dear valued customer,greetings,Spammy greeting,3
+dear customer,greetings,Spammy greeting,3
+dear winner,greetings,Spammy greeting,3
+hello dear,greetings,Spammy greeting,3
+to whom it may concern,greetings,Spammy greeting,3
+greetings,greetings,Spammy greeting,3
+good news,greetings,Spammy greeting,3
+great news,greetings,Spammy greeting,3
+important information,greetings,Spammy greeting,3
+important notice,greetings,Spammy greeting,3
+friendly reminder,greetings,Spammy greeting,3
+exciting opportunity,greetings,Spammy greeting,3
+exciting news,greetings,Spammy greeting,3
+congratulations,greetings,Spammy greeting,3
+click here,cta,Pushy call-to-action,2
+click below,cta,Pushy call-to-action,2
+click now,cta,Pushy call-to-action,2
+click this link,cta,Pushy call-to-action,2
+buy now,cta,Pushy call-to-action,2
+buy today,cta,Pushy call-to-action,2
+buy direct,cta,Pushy call-to-action,2
+order today,cta,Pushy call-to-action,2
+sign up free,cta,Pushy call-to-action,2
+sign up now,cta,Pushy call-to-action,2
+call now,cta,Pushy call-to-action,2
+call free,cta,Pushy call-to-action,2
+call me,cta,Pushy call-to-action,2
+call today,cta,Pushy call-to-action,2
+download now,cta,Pushy call-to-action,2
+get it now,cta,Pushy call-to-action,2
+get started now,cta,Pushy call-to-action,2
+subscribe now,cta,Pushy call-to-action,2
+register now,cta,Pushy call-to-action,2
+apply online,cta,Pushy call-to-action,2
+start now,cta,Pushy call-to-action,2
+join now,cta,Pushy call-to-action,2
+shop now,cta,Pushy call-to-action,2
+tap here,cta,Pushy call-to-action,2
+open now,cta,Pushy call-to-action,2
+get access now,cta,Pushy call-to-action,2
+free,salesy,Salesy / promotional,1
+for free,salesy,Salesy / promotional,1
+100% free,salesy,Salesy / promotional,1
+free trial,salesy,Salesy / promotional,1
+free gift,salesy,Salesy / promotional,1
+free quote,salesy,Salesy / promotional,1
+free consultation,salesy,Salesy / promotional,1
+free sample,salesy,Salesy / promotional,1
+free access,salesy,Salesy / promotional,1
+free preview,salesy,Salesy / promotional,1
+free membership,salesy,Salesy / promotional,1
+free shipping,salesy,Salesy / promotional,1
+free download,salesy,Salesy / promotional,1
+offer,salesy,Salesy / promotional,1
+special offer,salesy,Salesy / promotional,1
+exclusive offer,salesy,Salesy / promotional,1
+best offer,salesy,Salesy / promotional,1
+deal,salesy,Salesy / promotional,1
+best deal,salesy,Salesy / promotional,1
+great deal,salesy,Salesy / promotional,1
+exclusive deal,salesy,Salesy / promotional,1
+discount,salesy,Salesy / promotional,1
+huge discount,salesy,Salesy / promotional,1
+sale,salesy,Salesy / promotional,1
+mega sale,salesy,Salesy / promotional,1
+flash sale,salesy,Salesy / promotional,1
+clearance,salesy,Salesy / promotional,1
+save up to,salesy,Salesy / promotional,1
+bargain,salesy,Salesy / promotional,1
+bonus,salesy,Salesy / promotional,1
+free bonus,salesy,Salesy / promotional,1
+prize,salesy,Salesy / promotional,1
+giveaway,salesy,Salesy / promotional,1
+coupon,salesy,Salesy / promotional,1
+promo,salesy,Salesy / promotional,1
+promotion,salesy,Salesy / promotional,1
+special promotion,salesy,Salesy / promotional,1
+price,salesy,Salesy / promotional,1
+best price,salesy,Salesy / promotional,1
+lowest price,salesy,Salesy / promotional,1
+low price,salesy,Salesy / promotional,1
+cheap,salesy,Salesy / promotional,1
+affordable,salesy,Salesy / promotional,1
+no cost,salesy,Salesy / promotional,1
+no fees,salesy,Salesy / promotional,1
+money back,salesy,Salesy / promotional,1
+money-back,salesy,Salesy / promotional,1
+money back guarantee,salesy,Salesy / promotional,1
+full refund,salesy,Salesy / promotional,1
+increase sales,salesy,Salesy / promotional,1
+increase traffic,salesy,Salesy / promotional,1
+increase revenue,salesy,Salesy / promotional,1
+boost your,salesy,Salesy / promotional,1
+grow your business,salesy,Salesy / promotional,1
+call,salesy,Salesy / promotional,1
